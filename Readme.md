@@ -74,7 +74,7 @@
 
 ![Пример1](https://github.com/mdolovanyuk/testProjectYM/blob/master/pics/picErr.png "Один из тестов завершился с ошибкой")
 
-![Пример2](https://github.com/mdolovanyuk/testProjectYM/blob/master/pics/picErr.png "Успешное выполнение тестового прогона")
+![Пример2](https://github.com/mdolovanyuk/testProjectYM/blob/master/pics/picAcc.png "Успешное выполнение тестового прогона")
 
 *Примечание. Чтобы исключить тест из списка выполняемых, нужно к функции test добавить skip:*
 

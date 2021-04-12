@@ -72,7 +72,9 @@
 
 5. После окончания выполнения тестов ознакомиться с результатами в командной строке.
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Пример1](https://github.com/mdolovanyuk/testProjectYM/blob/master/pics/picErr.png "Один из тестов завершился с ошибкой")
+
+![Пример2](https://github.com/mdolovanyuk/testProjectYM/blob/master/pics/picErr.png "Успешное выполнение тестового прогона")
 
 *Примечание. Чтобы исключить тест из списка выполняемых, нужно к функции test добавить skip:*
 
